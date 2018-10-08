@@ -14,8 +14,16 @@
 
 
 [1463](http://boj.kr/1463) :
-[BJ1463.java](src/BJ1463) :
+[BJ1463.java](src/BJ1463.java) :
 2018-10-08
 
 - DP
 - Need to think about common multiples of 2 and 3
+
+
+[10828](http://boj.kr/10828) :
+[BJ10828.java](src/BJ10828.java) :
+2018-10-08
+
+- Stack
+- SWitch
