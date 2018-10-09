@@ -26,4 +26,14 @@
 2018-10-08
 
 - Stack
-- SWitch
+- Switch
+
+[1149](http://boj.kr/1149) :
+[BJ1149.java](src/BJ1149.java) :
+2018-10-09
+
+- DP
+- Struggled with figuring out minimize matrix
+
+[1874](http://boj.kr/1874) :
+[BJ1874.java](src/BJ1874.java) :
