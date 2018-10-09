@@ -37,3 +37,8 @@
 
 [1874](http://boj.kr/1874) :
 [BJ1874.java](src/BJ1874.java) :
+[BJ1874_New.java](src/BJ1874_New.java) :
+
+- Stack
+- BufferedWriter ended up with output overflowing
+- Fixed the problem with StringBuilder
