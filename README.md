@@ -42,3 +42,11 @@
 - Stack
 - BufferedWriter ended up with output overflowing
 - Fixed the problem with StringBuilder
+
+
+[14891](http://boj.kr/14891) :
+[BJ14891.java](src/BJ14891.java) :
+
+- DP
+- Rotating funcition (There is a better way to make)
+- Took too long to solve
