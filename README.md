@@ -38,6 +38,7 @@
 [1874](http://boj.kr/1874) :
 [BJ1874.java](src/BJ1874.java) :
 [BJ1874_New.java](src/BJ1874_New.java) :
+2018-10-10
 
 - Stack
 - BufferedWriter ended up with output overflowing
@@ -46,7 +47,16 @@
 
 [14891](http://boj.kr/14891) :
 [BJ14891.java](src/BJ14891.java) :
+2018-10-10
 
 - DP
 - Rotating funcition (There is a better way to make)
 - Took too long to solve
+
+
+[13458](http://boj.kr/13458) :
+[BJ13458.java](src/BJ13458.java) :
+[BJ13458_New.java](src/BJ13458_New.java) :
+2018-10-13
+
+- Easy

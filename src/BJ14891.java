@@ -5,6 +5,7 @@ public class BJ14891 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        // making the gear array 5=> for starting number from 1
         char[][] DP = new char[5][8];
 
         DP[1] = br.readLine().toCharArray();
@@ -21,6 +22,8 @@ public class BJ14891 {
             i = Integer.parseInt(points[0]);
             j = Integer.parseInt(points[1]);
 
+
+            // selecting gear num
             if(i==1){
                 if(DP[1][2]!=DP[2][6]){
                     if(DP[2][2]!=DP[3][6]){
@@ -81,7 +84,7 @@ public class BJ14891 {
         System.out.println(ans);
     }
 
-    // rotating
+    // rotating gear 1 for clock wise, -1 for anti-clock wise
     static void rotate(char[][]DP, int row, int start, int direction){
         switch (direction){
             case 1:
