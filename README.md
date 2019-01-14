@@ -49,7 +49,6 @@
 [BJ14891.java](src/BJ14891.java) :
 2018-10-10
 
-- DP
 - Rotating funcition (There is a better way to make)
 - Took too long to solve
 
@@ -60,3 +59,9 @@
 2018-10-13
 
 - Easy
+
+[2747](http://boj.kr/2747) :
+[BJ2747.java](src/BJ2747.java) :
+2019-01-14
+
+- Fibonacci numbers
