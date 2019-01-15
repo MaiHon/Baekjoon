@@ -65,3 +65,9 @@
 2019-01-14
 
 - Fibonacci numbers
+
+[1010](http://boj.kr/1010) :
+[BJ1010.java](src/BJ1010.java) :
+2019-01-15
+
+- DP
