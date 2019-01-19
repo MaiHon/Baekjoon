@@ -95,3 +95,9 @@
 2019-01-19
 
 - DP
+
+[1002](http://boj.kr/1002) :
+[BJ1002.java](src/BJ1002.java) :
+2019-01-19
+
+- Geometry Algorithm

@@ -39,6 +39,11 @@ public class BJ2579 {
             }
         }
 
+        for(int i=0; i<ans.length; i++){
+            System.out.println(Arrays.toString(ans[i]));
+        }
+
+
         Arrays.sort(ans[ans.length-1]);
         System.out.println(ans[ans.length-1][ans.length-1]);
     }
