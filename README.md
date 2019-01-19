@@ -78,3 +78,20 @@
 
 - BigInteger
 - Fibonacci numbers
+
+
+[2579](http://boj.kr/2579) :
+[BJ2579.java](src/BJ2579.java) :
+[BJ2579_v1.java](src/BJ2579_v1.java) :
+[BJ2579_v2.java](src/BJ2579_v2.java) :
+2019-01-19
+
+- DP
+- v2 is better than v1(shorter)
+
+
+[11053](http://boj.kr/11053) :
+[BJ11053.java](src/BJ11053.java) :
+2019-01-19
+
+- DP
