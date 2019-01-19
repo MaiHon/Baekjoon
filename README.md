@@ -96,6 +96,7 @@
 
 - DP
 
+
 [1002](http://boj.kr/1002) :
 [BJ1002.java](src/BJ1002.java) :
 2019-01-19
@@ -108,3 +109,13 @@
 2019-01-20
 
 - DP
+
+
+[11726](http://boj.kr/11726) :
+[BJ11726.java](src/BJ11726.java) :
+[BJ11726_faster.java](src/BJ11726_faster.java) :
+2019-01-20
+
+- DP
+- Fibonacci
+- BigInteger
