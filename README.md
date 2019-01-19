@@ -101,3 +101,10 @@
 2019-01-19
 
 - Geometry Algorithm
+
+
+[14501](http://boj.kr/14501) :
+[BJ14501.java][src/BJ14501.java] :
+2019-01-20
+
+- DP
