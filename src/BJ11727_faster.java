@@ -19,3 +19,5 @@ public class BJ11727_faster {
         System.out.println(ans);
     }
 }
+
+
