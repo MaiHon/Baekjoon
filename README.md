@@ -1,6 +1,7 @@
 # Baekjoon
 -----
-[9012](https://boj.kr/9012) : [BJ9012.java](src/BJ9012.java) : 2018-10-07
+[9012](https://boj.kr/9012) : 
+[BJ9012.java](src/BJ9012.java) : 2018-10-07
 
 - Stack
 
@@ -105,7 +106,7 @@
 
 
 [14501](http://boj.kr/14501) :
-[BJ14501.java][src/BJ14501.java] :
+[BJ14501.java](src/BJ14501.java) :
 2019-01-20
 
 - DP
