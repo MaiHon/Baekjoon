@@ -12,12 +12,11 @@ public class BJ9095 {
         for(int i=0; i<caseN; i++){
             int n = Integer.parseInt(br.readLine());
             int[] dp = new int[n+1];
-            dp[0]=0;
+            dp[0]=1;
             if(n>=1) dp[1]=1;
             if(n>=2) dp[2]=2;
-            if(n>=3) dp[3]=4;
 
-            for(int j=4; j<=n; j++){
+            for(int j=3; j<=n; j++){
                 dp[j] = dp[j-1] + dp[j-2] + dp[j-3];
             }
             bw.write(dp[n] + "\n");

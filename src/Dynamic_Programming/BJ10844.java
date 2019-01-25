@@ -1,6 +1,5 @@
 package Dynamic_Programming;
 
-import java.util.*;
 import java.io.*;
 
 
@@ -10,42 +9,32 @@ public class BJ10844 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         int n = Integer.parseInt(br.readLine());
-        long[][] stairArray = new long[101][9];
+        long[][] stair = new long[101][10];
         long result = 0;
 
-        for(int i=0; i<9; i++) {
-            stairArray[1][i] = 1;
+        stair[1][0] = 0;
+        for(int i=1; i<=9; i++) {
+            stair[1][i] = 1;
 
-            if(i==8) {
-                stairArray[2][i] = 1;
-            }else {
-                stairArray[2][i] = 2;
+        }
+
+        for(int i=2; i<=n; i++) {
+            stair[i][0] = 1;
+            for(int j=0; j<=9; j++){
+                if(j==0) stair[i][j] = stair[i-1][1]%1000000000;
+                if(j!=0 && j!=9) stair[i][j] = (stair[i-1][j-1] + stair[i-1][j+1])%1000000000;
+                if(j==9) stair[i][j] = stair[i-1][8]%1000000000;
             }
         }
 
-        if(n>2) {
-            for(int i=3; i<=n; i++) {
-                for(int j=0; j<9; j++) {
-                    if(j==0) {
-                        stairArray[i][j] = (stairArray[i-2][j] + stairArray[i-1][j+1])%1000000000;
-                    }else if(j==8) {
-                        stairArray[i][j] = (stairArray[i-1][j-1])%1000000000;
-                    }else {
-                        stairArray[i][j] = (stairArray[i-1][j-1] + stairArray[i-1][j+1])%1000000000;
-                    }
-                }
-            }
-        }
+//        for(int i=0; i<=n; i++){
+//            System.out.println(Arrays.toString(stair[i]));
+//        }
 
-        for(int i=0; i<9; i++) {
-            result += stairArray[n-1][i];
+        for(int i=0; i<=9; i++) {
+            result += stair[n][i];
         }
         bw.write(String.valueOf(result%1000000000));
         bw.flush();
-
-
-//        for(int i=0; i<stairArray.length; i++){
-//            System.out.println(Arrays.toString(stairArray[i]));
-//        }
     }
 }

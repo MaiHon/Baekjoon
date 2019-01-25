@@ -167,3 +167,40 @@
 - push, pop, size
 - LIFO
 
+[11727](http://boj.kr/11727) :
+[BJ11727.java](src/Dynamic_Programming/BJ11727.java) :
+2019-01-24
+
+- DP
+- dp[i] = dp[i-1] + dp[i-2]*2
+- Remainder for using int array not long array
+
+
+[11052](http://boj.kr/11052) :
+[BJ11052.java](src/Dynamic_Programming/BJ11052.java) :
+2019-01-24
+
+- DP
+- dp[i] = Math.max(dp[i], dp[i-j]+p[j])
+
+
+[2193](http://boj.kr/2193) :
+[BJ2193.java](src/Dynamic_Programming/BJ2193.java) :
+2019-01-25
+
+- DP
+- dp[i] = dp[i-1] + dp[i-2]
+
+[10844](http://boj.kr/10844) :
+[BJ10844.java](src/Dynamic_Programming/BJ10844.java) :
+2019-01-25
+
+- DP
+- Separate i=0, i=9, i=1~8
+
+[11057](http://boj.kr/11057) :
+[BJ11057.java](src/Dynamic_Programming/BJ11057.java) :
+2019-01-25
+
+- DP
+- Triple for loop
