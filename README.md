@@ -95,7 +95,9 @@
 
 
 [11053](http://boj.kr/11053) :
+[11722](http://boj.kr/11722) :
 [BJ11053.java](src/Dynamic_Programming/BJ11053.java) :
+[BJ11722.java](src/Dynamic_Programming/BJ11722.java) :
 2019-01-19
 
 - DP
@@ -204,3 +206,27 @@
 
 - DP
 - Triple for loop
+
+[11054](http://boj.kr/11054) :
+[BJ11054.java](src/Dynamic_Programming/BJ11054.java) :
+2019-01-26
+
+- DP
+- Separate left and right part
+
+[2156](http://boj.kr/2156) :
+[BJ2156.java](src/Dynamic_Programming/BJ2156.java) :
+2019-01-26
+
+- DP
+- Key point is that cannot drink wine 3times in series
+- Totally 3cases: first time or second time in series, and not drink
+
+[9465](http://boj.kr/9465) :
+[BJ9465.java](src/Dynamic_Programming/BJ9465) :
+2019-01-26
+
+- DP
+- 3cases: 1: take, 0: not take {(0, 0), (0, 1), (1, 0)}
+
+
