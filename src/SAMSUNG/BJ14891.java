@@ -1,4 +1,4 @@
-package Simulation;
+package SAMSUNG;
 
 import java.io.*;
 

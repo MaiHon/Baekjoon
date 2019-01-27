@@ -48,7 +48,7 @@
 
 
 [14891](http://boj.kr/14891) :
-[BJ14891.java](src/Simulation/BJ14891.java) :
+[BJ14891.java](src/SAMSUNG/BJ14891.java) :
 2018-10-10
 
 - Simulation
@@ -223,10 +223,39 @@
 - Totally 3cases: first time or second time in series, and not drink
 
 [9465](http://boj.kr/9465) :
-[BJ9465.java](src/Dynamic_Programming/BJ9465) :
+[BJ9465.java](src/Dynamic_Programming/BJ9465.java) :
 2019-01-26
 
 - DP
 - 3cases: 1: take, 0: not take {(0, 0), (0, 1), (1, 0)}
 
+[15686](http://boj.kr/15685) :
+[BJ15685.java](src/SAMSUNG/BJ15685.java) :
+2019-01-27
 
+- Simulation
+- Key point is that there are just 4directions
+
+
+[1406](http://boj.kr/1406) :
+[BJ1406.java](src/Stack/BJ1406.java) :
+[BJ1406_stack.java](src/Stack/BJ1406.java) :
+2019-01-27
+
+- StringBuilder.insert() takes more time than I thought
+- Stacks(left + right)
+- Key point is deviding the String by cousor
+
+[11055](http://boj.kr/11055) :
+[BJ11055.java](src/Dynamic_Programming/BJ11055.java) :
+2019-01-27
+
+- DP
+
+[1699](http://boj.kr/1699) :
+[BJ1699.java](src/Dynamic_Programming/BJ1699.java) :
+2019-01-28
+
+- DP
+- dp[i] = Math.min(dp[i], dp[i-j*j]+1)
+- j: 1 ~ sqrt(i)
