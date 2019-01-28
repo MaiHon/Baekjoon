@@ -259,3 +259,11 @@
 - DP
 - dp[i] = Math.min(dp[i], dp[i-j*j]+1)
 - j: 1 ~ sqrt(i)
+
+[9461](http://boj.kr/9461) :
+[BJ9461.java](src/Dynamic_Programming/BJ9461.java) :
+2019-01-28
+
+- DP
+- dp[i] = dp[i-1] + dp[i-5]
+- int array -> long array
