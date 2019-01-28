@@ -267,3 +267,11 @@
 - DP
 - dp[i] = dp[i-1] + dp[i-5]
 - int array -> long array
+
+[1850](http://boj.kr/1850) :
+[BJ1850.java](src/Mathmatics/BJ1850.java) :
+
+- GCD(Greatest Common Divisor)
+- Euclid Algorithm
+- Plus, LCM(Least Common Multiple)
+- Supposing g = GCD of a, b then LCM = g * (a/g) * (b/g)
