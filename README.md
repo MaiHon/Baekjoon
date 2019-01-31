@@ -297,3 +297,17 @@
 - Sieve of Eratosthenes
 - Prime numbers
 - ArrayDeque's poll() and peek()
+
+[1260](http://boj.kr/1260) :
+[BJ1260.java](src/Graph/BJ1260.java) :
+2019-01-31
+
+- BFS(queue)
+- DFS(stack)
+
+[11724](http://boj.kr/11724) :
+[BJ11724.java](src/Graph/BJ11724.java) :
+2019-01-31
+
+- DFS
+- Connected Component
