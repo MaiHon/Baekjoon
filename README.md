@@ -269,9 +269,31 @@
 - int array -> long array
 
 [1850](http://boj.kr/1850) :
+[2609](http://boj.kr/2609) :
 [BJ1850.java](src/Mathmatics/BJ1850.java) :
+[BJ2609.java](src/Mathmatics/BJ2609.java) :
 
-- GCD(Greatest Common Divisor)
 - Euclid Algorithm
+- GCD(Greatest Common Divisor)
 - Plus, LCM(Least Common Multiple)
 - Supposing g = GCD of a, b then LCM = g * (a/g) * (b/g)
+
+[2745](http://boj.kr/2745) :
+[BJ2745.java](src/Mathmatics/BJ2745.java) :
+2019-01-29
+
+- Base conversion
+
+[1978](http://boj.kr/1978) :
+[BJ1978.java](src/Mathmatics/BJ1978.java) :
+2019-01-30
+
+- Finding Prime numbers
+
+[2960](http://boj.kr/2960) :
+[BJ2960.java](src/Mathmatics/BJ2960.java) :
+2019-01-31
+
+- Sieve of Eratosthenes
+- Prime numbers
+- ArrayDeque's poll() and peek()
