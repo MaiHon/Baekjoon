@@ -52,7 +52,12 @@ public class BJ1260 {
             return;
         }
         check[n] = true;
-
+        sb.append(n + " ");
+        for(int m : elist[n]) {
+            if(!check[m]) {
+                dfs(m);
+            }
+        }
     }
 
     static void bfs(int n) {

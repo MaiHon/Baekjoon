@@ -311,3 +311,17 @@
 
 - DFS
 - Connected Component
+
+[1012](http://boj/kr/1012) :
+[BJ1012.java](src/Graph/Bj1012.java) :
+2019-01-31
+
+- DFS
+- BFS
+- Difficultttttttttt f*k
+
+[2667](http://boj.kr/2667) :
+[BJ2667.java](src/Graph/BJ2667.java) :
+2019-01-31
+
+- DFS
