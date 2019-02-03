@@ -325,3 +325,43 @@
 2019-01-31
 
 - DFS
+
+[2178](http://boj.kr/2178) :
+[BJ2178.java](src/Graph/BJ2178.java) :
+2019-02-01
+
+- BFS(Queue)
+- DFS doesn't work
+
+[7576](http://boj.kr/7576) :
+[BJ7576.java](src/Graph/BJ7576.java) :
+2019-02-01
+
+- BFS
+
+[11725](http://boj.kr/11725) :
+[BJ11725.java](src/Tree/BJ11725.java) :
+2019-02-02
+
+- BFS
+- The problem didn't mention that it's just a binary tree
+
+[7576](http://boj.kr/7576) :
+[BJ7576.java](src/Graph/BJ7576.java) :
+2019-02-02
+
+- BFS
+
+[1991](http://boj.kr/1991) :
+[BJ1991.java](src/Tree/BJ1991.java) :
+2019-02-02
+
+- BFS
+- Postorder, Inorder, Preorder Traversals
+- Using Recursion 
+
+[1932](http://boj.kr/1932) :
+[BJ1932.java](src/Dynamic_Programming/BJ1932.java) :
+2019-02-03
+
+- DP
