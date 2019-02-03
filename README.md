@@ -365,3 +365,9 @@
 2019-02-03
 
 - DP
+
+[2309](http://boj.kr/2309) :
+[BJ2309.java](src/Brute_Force/BJ2309.java) :
+2019-02-03
+
+- Brute Force
