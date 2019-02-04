@@ -388,3 +388,10 @@
 - Stupid way for selecting the positions for new walls
 - Arrays.copyOf() was slower than double for loop
 - Need to practice more
+
+[2146](http://boj.kr/2145) :
+[BJ2146.java](src/Graph/BJ2146.java) :
+2019-02-05
+
+- Need to revise
+- Doesn't work
