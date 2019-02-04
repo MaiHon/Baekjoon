@@ -381,9 +381,10 @@
 
 [14502](http://boj.kr/14502) :
 [BJ14502.java](src/Brute_Force/BJ14502.java) :
+[BJ14502_v2.java](src/Brute_Force/BJ14502_v2.java) :
 2019-02-04
 
 - Brute Force
 - Stupid way for selecting the positions for new walls
 - Arrays.copyOf() was slower than double for loop
-
+- Need to practice more

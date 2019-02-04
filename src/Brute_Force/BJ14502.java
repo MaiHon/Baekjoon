@@ -4,8 +4,6 @@ import java.util.*;
 import java.io.*;
 
 public class BJ14502 {
-    static final int WALL = 1;
-
     static int m, n;
     static int nwall, nvirus;
     static boolean check[][];
@@ -108,18 +106,17 @@ public class BJ14502 {
         }
     }
 
-
-    public static void Reset() {
-        // slower.....
-        for (int i=0; i<m; i++) {
-            map[i] = Arrays.copyOf(reset[i], n);
-        }
-
+    static void Reset() {
+        //slower...
 //        for (int i=0; i<m; i++) {
-//            for(int j=0; j<n; j++){
-//                map[i][j] = reset[i][j];
-//            }
+//            map[i] = Arrays.copyOf(reset[i], n);
 //        }
+
+        for (int i=0; i<m; i++) {
+            for(int j=0; j<n; j++){
+                map[i][j] = reset[i][j];
+            }
+        }
         check = new boolean[m][n];
     }
 }
@@ -132,4 +129,5 @@ class Grid{
         this.x = x;
         this.y = y;
     }
+    
 }
