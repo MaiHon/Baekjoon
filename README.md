@@ -395,3 +395,10 @@
 
 - Need to revise
 - Doesn't work
+
+[2468](http://boj.kr/2468) :
+[BJ2468.java](src/Graph/BJ2468.java) :
+2019-02-06
+
+- BFS & DFS
+
