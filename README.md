@@ -402,3 +402,10 @@
 
 - BFS & DFS
 
+[2206](http://boj.kr/2206) :
+[BJ2206.java](src/Graph/BJ2206/java) :
+2019-02-07
+
+- BFS
+- It took so long to break down each wall once
+- Need to split it two way to solve it(Breaked, not breaked)
