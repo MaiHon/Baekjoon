@@ -417,3 +417,10 @@
 - Greedy Algorithm
 - Because coins are multiples of each coin, Greedy Algorithm can be applied.
 
+[1726](http://boj.kr/1726) :
+[BJ1726.java](src/Graph/BJ1726.java) :
+2019-02-07
+
+- BFS
+- Need to split it into 4cases(East, West, North, South) : Just like Problem BJ2206
+- Struggled to find the way to turn left or right.
