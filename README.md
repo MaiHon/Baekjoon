@@ -409,3 +409,11 @@
 - BFS
 - It took so long to break down each wall once
 - Need to split it two way to solve it(Breaked, not breaked)
+
+[11047](http://boj.kr/11047) :
+[BJ11047.java](src/Greedy_Algorithm/BJ11047.java) :
+2019-02-07
+
+- Greedy Algorithm
+- Because coins are multiples of each coin, Greedy Algorithm can be applied.
+
