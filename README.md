@@ -424,3 +424,18 @@
 - BFS
 - Need to split it into 4cases(East, West, North, South) : Just like Problem BJ2206
 - Struggled to find the way to turn left or right.
+
+[11399](http://boj.kr/11399) :
+[BJ11399.java](src/Greedy_Algorithm/BJ11399.java) :
+2019-02-08
+
+- Greedy Algorithm
+
+[2352](http://boj.kr/2352) :
+[BJ2352.java](src/Greedy_Algorithm/BJ2352.java) :
+[BJ2352_NlogN.java](src/Greedy_Algorithm/BJ2352_NlongN.java) :
+2019-02-08
+
+- Greedy Algorithm
+- DP
+- Binaray Search(Can't fully understand)
