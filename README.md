@@ -439,3 +439,10 @@
 - Greedy Algorithm
 - DP
 - Binaray Search(Can't fully understand)
+
+[1920](http://boj.kr/1920) :
+[BJ1920.java](src/Greedy_Algorithm/BJ1920.java) :
+2019-02-08
+
+- Binaray Search
+- Wasted time cuz of the index of list.
