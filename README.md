@@ -1,5 +1,10 @@
 # Baekjoon
+
+Learning-Algorithm
+
 -----
+-----
+
 [9012](https://boj.kr/9012) : 
 [BJ9012.java](src/Stack/BJ9012.java) : 
 2018-10-07
@@ -446,3 +451,12 @@
 
 - Binaray Search
 - Wasted time cuz of the index of list.
+
+[2869](http://boj.kr/2869) :
+[BJ2869.java](src/Binary_Search/BJ2869.java) :
+[BJ2869_BinaraySearch.java](src/Binary_Search/BJ2869_BinarySearch.java) :
+2019-02-09
+
+- Solved mathematically at first
+- Solved by Binary Search
+

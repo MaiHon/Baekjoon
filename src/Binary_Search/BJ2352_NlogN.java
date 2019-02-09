@@ -1,4 +1,4 @@
-package Greedy_Algorithm;
+package Binary_Search;
 
 import java.io.*;
 import java.util.*;
