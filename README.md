@@ -438,7 +438,7 @@ Learning-Algorithm
 
 [2352](http://boj.kr/2352) :
 [BJ2352.java](src/Greedy_Algorithm/BJ2352.java) :
-[BJ2352_NlogN.java](src/Greedy_Algorithm/BJ2352_NlongN.java) :
+[BJ2352_NlogN.java](src/Binary_Search/BJ2352_NlogN.java) :
 2019-02-08
 
 - Greedy Algorithm
@@ -460,3 +460,9 @@ Learning-Algorithm
 - Solved mathematically at first
 - Solved by Binary Search
 
+[10026](http://boj.kr/10026) :
+[BJ10026_BFS.java](src/Graph/BJ10026_BFS.java) :
+[BJ10026_DFS.java](src/Graph/BJ10026_DFS.java) :
+2019-02-09
+
+- DFS is faster than BFS
