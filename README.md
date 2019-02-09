@@ -466,3 +466,17 @@ Learning-Algorithm
 2019-02-09
 
 - DFS is faster than BFS
+
+[1934](http://boj.kr/1934) :
+[BJ1934.java](src/Mathmatics/BJ1934.java) :
+2019-02-19
+
+- GCD & LCM
+
+[1697](http://boj.kr/1697) :
+[BJ1697.java](src/Graph/BJ1697.java) :
+2019-02-10
+
+- BFS
+- Index must be over 0!!
+- Do not forget about check visitied or not for bfs
