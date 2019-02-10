@@ -512,3 +512,17 @@ Learning-Algorithm
 - KMP Algorithm
 - Failure function(which is named pi)
 - Need to get used to it
+
+
+[1753](http://boj.kr/1753) :
+[BJ1753_v1](src/Dijkstra/BJ1753_v1.java) :
+[BJ1753_v2](src/Dijkstra/BJ1753_v2.java) :
+2019-02-10
+
+- Dijkstra Algorithm
+- Used double array at the first -> over time limit
+- Find new way to solve with PriorityQueue
+- Got the difference between Comparable and Comparator
+- Used Comparable for the first time
+- return -1 and 0 -> Don't change order
+- return 1 -> change order
