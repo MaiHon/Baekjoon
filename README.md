@@ -499,8 +499,16 @@ Learning-Algorithm
 [BJ9251_Better_Recursive.java](src/Dynamic_Programming/BJ9251_Better_Recursive.java) :
 2019-02-10
 
+- LCS(Longest Common Subsequence)
 - DP is fater(Recursive way took over time limit)
 - Recursive -> worst case -> 2^(m+n)
 - Better Recursive -> worst case -> n*m?
 - Bottom-up -> n*m
 
+[1786](http://boj.kr/1786) :
+[BJ1786.java](src/KMP/BJ1787.java) :
+2019-02-10
+
+- KMP Algorithm
+- Failure function(which is named pi)
+- Need to get used to it
