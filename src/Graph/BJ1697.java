@@ -30,7 +30,7 @@ public class BJ1697 {
 
             if(p==b) break;
             if(p+1<=MAX && !check[p+1]){
-      1          q.offer(new int[]{p+1, len+1});
+                q.offer(new int[]{p+1, len+1});
                 check[p+1] = true;
             }
             if(p>0 && !check[p-1] && p-1>=MIN){
