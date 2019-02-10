@@ -487,3 +487,20 @@ Learning-Algorithm
 
 - DP
 
+[2133](http://boj.kr/2133) :
+[BJ2133.java](src/Dynamic_Programming/BJ2133.java) :
+2019-02-10
+
+- DP
+
+[9251](http://boj.kr/9251) :
+[BJ9251_DP.java](src/Dynamic_Programming/BJ9251_DP.java) :
+[BJ9251_Recursive.java](src/Dynamic_Programming/BJ9251_Recursive.java) :
+[BJ9251_Better_Recursive.java](src/Dynamic_Programming/BJ9251_Better_Recursive.java) :
+2019-02-10
+
+- DP is fater(Recursive way took over time limit)
+- Recursive -> worst case -> 2^(m+n)
+- Better Recursive -> worst case -> n*m?
+- Bottom-up -> n*m
+
