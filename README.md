@@ -526,3 +526,14 @@ Learning-Algorithm
 - Used Comparable for the first time
 - return -1 and 0 -> Don't change order
 - return 1 -> change order
+
+
+[2751](http://boj.kr/2751) :
+[BJ2751_QuickSort.java](src/Mathmatics/BJ2751_QuickSort.java) :
+[BJ2751_MergeSort.java](src/Mathmatics/BJ2751_MergeSort.java) :
+2019-02-12
+
+- QuickSort took over time limit.
+- QuickSort's time complexity is NlogN, but with the wrost case => N^2
+- MergeSort always ensure NlogN complexity.
+
