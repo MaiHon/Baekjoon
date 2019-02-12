@@ -537,3 +537,9 @@ Learning-Algorithm
 - QuickSort's time complexity is NlogN, but with the wrost case => N^2
 - MergeSort always ensure NlogN complexity.
 
+[2583](http://boj.kr/2583) :
+[BJ2583.java](src/Graph/BJ2583.java) :
+2019-02-12
+
+- BFS
+
