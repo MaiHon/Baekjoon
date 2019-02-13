@@ -558,3 +558,9 @@ Learning-Algorithm
 - BFS
 - Should scan the conditions
 
+[7569](http://boj.kr/7569) :
+[BJ7569.java](src/Graph/BJ7569.java) :
+2019-02-13
+
+- BFS
+- 3D array
