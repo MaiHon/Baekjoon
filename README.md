@@ -531,11 +531,13 @@ Learning-Algorithm
 [2751](http://boj.kr/2751) :
 [BJ2751_QuickSort.java](src/Mathmatics/BJ2751_QuickSort.java) :
 [BJ2751_MergeSort.java](src/Mathmatics/BJ2751_MergeSort.java) :
+[BJ2751_HeapSort.java](src/Mathmatics/BJ2751_HeapSort.java) :
 2019-02-12
 
 - QuickSort took over time limit.
 - QuickSort's time complexity is NlogN, but with the wrost case => N^2
 - MergeSort always ensure NlogN complexity.
+- HeapSort
 
 [2583](http://boj.kr/2583) :
 [BJ2583.java](src/Graph/BJ2583.java) :
