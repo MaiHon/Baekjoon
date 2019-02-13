@@ -551,3 +551,10 @@ Learning-Algorithm
 
 - BFS
 
+[2644(http://boj.kr/2644) :
+[BJ2644.java](src/Graph/BJ2644.java) :
+2019-02-13
+
+- BFS
+- Should scan the conditions
+
