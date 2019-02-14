@@ -564,3 +564,10 @@ Learning-Algorithm
 
 - BFS
 - 3D array
+
+[2589](http://boj.kr/2589) :
+[BJ2589.java](src/Graph/BJ2589.java) :
+2019-02-14
+
+- BFS
+
