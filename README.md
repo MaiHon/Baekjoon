@@ -551,7 +551,7 @@ Learning-Algorithm
 
 - BFS
 
-[2644(http://boj.kr/2644) :
+[2644](http://boj.kr/2644) :
 [BJ2644.java](src/Graph/BJ2644.java) :
 2019-02-13
 
@@ -571,3 +571,10 @@ Learning-Algorithm
 
 - BFS
 
+[5014](http://boj.kr/5014) :
+[BJ5014.java](src/Graph/BJ5014.java) :
+2019-02-14
+
+- BFS
+- Something seems weird...
+- Maybe there is better way?
