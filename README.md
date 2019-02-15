@@ -514,7 +514,6 @@ by Mah
 - Failure function(which is named pi)
 - Need to get used to it
 
-
 [1753](http://boj.kr/1753) :
 [BJ1753_v1](src/Dijkstra/BJ1753_v1.java) :
 [BJ1753_v2](src/Dijkstra/BJ1753_v2.java) :
@@ -597,3 +596,11 @@ by Mah
 - did stupidly at the first ->> v1
 - Move fire and than move the person is better
 - v2 is faster
+
+[10164](http://boj.kr/10164) :
+[BJ10164.java](src/Dynamic_Programming/BJ10164.java) :
+2019-02-15
+
+- DP
+- Didn't catch the problem conditions --> when K=0
+- Need more cleaner cods..... looks messy
