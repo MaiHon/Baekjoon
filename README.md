@@ -605,3 +605,15 @@ by Mah
 - DP
 - Didn't catch the problem conditions --> when K=0
 - Need more cleaner cods..... looks messy
+
+[2606](http://boj.kr/2606) :
+[BJ2606_v1.java](src/Graph/Bj2606_v1.java) :
+[BJ2606_v2.java](src/Graph/Bj2606_v2.java) :
+2019-02-16
+
+- v1 -> normal bfs
+- v2 -> Floyd Warshall Algorithm
+- Floyd -> Time complexity => O(V^3)
+- Dijkstra -> Time complexity => VElongV(wrost case: V^3logV)
+- Usually Dijkstra is fater except the wrost case
+- Dijkstra doesn't work with negative edges whereas Floyd does. 
