@@ -1,7 +1,8 @@
 # Baekjoon
 
 Learning-Algorithm
-
+-----
+by Mah
 -----
 -----
 
@@ -586,3 +587,13 @@ Learning-Algorithm
 - BFS
 - Solved kinda stupidly?
 
+[5427](http://boj.kr/5427) :
+[BJ5427_v1.java](src/Graph/BJ5427_v1.java) :
+[BJ5427_v2.java](src/Graph/BJ5427_v2.java) :
+2019-02-15
+
+- BFS
+- Do not be confuesd row and column values!!!!
+- did stupidly at the first ->> v1
+- Move fire and than move the person is better
+- v2 is faster

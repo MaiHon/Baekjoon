@@ -1,4 +1,4 @@
-package Mathmatics;
+package Graph;
 
 import java.util.*;
 
