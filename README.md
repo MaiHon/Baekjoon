@@ -578,3 +578,11 @@ Learning-Algorithm
 - BFS
 - Something seems weird...
 - Maybe there is better way?
+
+[2573](http://boj.kr/2573) :
+[BJ2573.java](src/Graph/BJ2573.java) :
+2019-02-15
+
+- BFS
+- Solved kinda stupidly?
+
