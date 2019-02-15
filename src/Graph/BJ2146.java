@@ -53,30 +53,22 @@ public class BJ2146 {
                     if(!check[n_y][n_x] && map[n_y][n_x]==0){
                         qe.offer(new Pos(n_x, n_y));
                         check[n_y][n_x] = true;
+                        group[n_y][n_x] = group[p_y][p_x];
                         map[n_y][n_x] = map[p_y][p_x] + 1;
                     }
-                    if(check[n_y][n_x] && map[n_y][n_x]!=1 && group[n_y][n_x]!=0){
 
+                    if(check[n_y][n_x] && group[n_y][n_x]!=group[p_y][p_x] && map[n_y][n_x]!=0){
+                        ans.add(map[n_y][n_x]+map[p_y][p_x]-2);
                     }
                 }
             }
         }
 
-        System.out.println(Arrays.toString(ans.toArray()));
-
-        System.out.println();
-        for(int i=0; i<n; i++){
-            System.out.println(Arrays.toString(map[i]));
-        }
-
-        System.out.println();
-        for(int i=0; i<n; i++){
-            System.out.println(Arrays.toString(check[i]));
-        }
-
-        System.out.println();
-        for(int i=0; i<n; i++){
-            System.out.println(Arrays.toString(group[i]));
+        if(ans.isEmpty()){
+            System.out.println("0");
+        }else{
+            Collections.sort(ans);
+            System.out.println(ans.get(0));
         }
 
     }

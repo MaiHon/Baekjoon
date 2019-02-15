@@ -35,11 +35,6 @@ public class BJ10164 {
             pos[1] = N;
         }
 
-        for(int[] arr : map){
-            System.out.println(Arrays.toString(arr));
-        }
-        System.out.println();
-
         int[][] fdp = new int[pos[1]][pos[0]];
         int[][] sdp = new int[N-pos[1]+1][M-pos[0]+1];
 
@@ -61,15 +56,6 @@ public class BJ10164 {
                 else if(i==0 && j>0) sdp[i][j] = sdp[i][j-1];
                 else if(j==0 && i>0) sdp[i][j] = sdp[i-1][j];
             }
-        }
-
-        for(int[] arr : fdp){
-            System.out.println(Arrays.toString(arr));
-        }
-        System.out.println();
-
-        for(int[] arr : sdp){
-            System.out.println(Arrays.toString(arr));
         }
 
         int a = fdp[pos[1]-1][pos[0]-1];

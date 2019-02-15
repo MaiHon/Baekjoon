@@ -401,6 +401,7 @@ by Mah
 
 - Need to revise
 - Doesn't work
+- Solved 2019-02-15
 
 [2468](http://boj.kr/2468) :
 [BJ2468.java](src/Graph/BJ2468.java) :
