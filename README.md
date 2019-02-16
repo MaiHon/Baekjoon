@@ -615,5 +615,13 @@ by Mah
 - v2 -> Floyd Warshall Algorithm
 - Floyd -> Time complexity => O(V^3)
 - Dijkstra -> Time complexity => VElongV(wrost case: V^3logV)
-- Usually Dijkstra is fater except the wrost case
+- Usually Dijkstra is fater except the worst case
 - Dijkstra doesn't work with negative edges whereas Floyd does. 
+
+[3055](http://boj.kr/3055) :
+[BJ3055.java](src/Graph/BJ3055.java) :
+2019-02-16
+
+- BFS
+- Similar to BJ5427
+
