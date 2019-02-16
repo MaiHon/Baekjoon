@@ -625,3 +625,9 @@ by Mah
 - BFS
 - Similar to BJ5427
 
+[14500](http://boj.kr/14500) :
+[BJ14500.java](src/SAMSUNG/BJ14500.java) :
+
+- DFS
+- cuz of 'ㅗ', needed to do dfs one more
+
