@@ -641,3 +641,9 @@ by Mah
 [BJ2903.java](src/Dynamic_Programming/BJ2903.java) :
 
 - DP
+
+[14503](http://boj.kr/14503) :
+[BJ14503.java](src/SAMSUNG/BJ14503.java) :
+
+- BFS
+- Maybe possible to use DFS??
