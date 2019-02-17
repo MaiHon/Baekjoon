@@ -631,3 +631,8 @@ by Mah
 - DFS
 - cuz of 'ㅗ', needed to do dfs one more
 
+[12100](http://boj.kr/12100) :
+[BJ12100.java](src/SAMSUNG/BJ12100.java) :
+
+- DFS
+- :(
