@@ -647,3 +647,9 @@ by Mah
 
 - BFS
 - Maybe possible to use DFS??
+
+[14899](http://boj.kr/14899) :
+[BJ14899.java](src/SAMSUNG/BJ14899.java) :
+
+- DFS
+
