@@ -653,3 +653,7 @@ by Mah
 
 - DFS
 
+[14499](http://boj.kr/14499) :
+[BJ14499.java](src/SAMSUNG/BJ14499.java) :
+
+- Simulation
