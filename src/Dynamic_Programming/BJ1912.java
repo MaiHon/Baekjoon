@@ -34,4 +34,3 @@ public class BJ1912 {
         System.out.println(ans[n-1]);
     }
 }
-

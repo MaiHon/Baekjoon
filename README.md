@@ -685,3 +685,11 @@ by Mah
 
 - Simulation
 - Didn't expect this code will pass the test cases from the first....
+
+[15686](http://boj.kr/15686) :
+[BJ15686.java](src/SAMSUNG/BJ15686.java) :
+[BJ15686_v2.java](src/SAMSUNG/BJ15686_v2.java) :
+2019-02-21
+
+- DFS
+- Brute Force
