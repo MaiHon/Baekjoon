@@ -657,3 +657,8 @@ by Mah
 [BJ14499.java](src/SAMSUNG/BJ14499.java) :
 
 - Simulation
+
+[3190](http://boj.kr/3190) :
+[BJ3190.java](src/SAMSUNG/BJ3190.java) :
+
+- Simulation
