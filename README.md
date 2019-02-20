@@ -627,38 +627,54 @@ by Mah
 
 [14500](http://boj.kr/14500) :
 [BJ14500.java](src/SAMSUNG/BJ14500.java) :
+2019-02-17
 
 - DFS
 - cuz of 'ㅗ', needed to do dfs one more
 
 [12100](http://boj.kr/12100) :
 [BJ12100.java](src/SAMSUNG/BJ12100.java) :
+2019-02-17
 
 - DFS
 - :(
 
 [2903](http://boj.kr/2903) :
 [BJ2903.java](src/Dynamic_Programming/BJ2903.java) :
+2019-02-17
 
 - DP
 
 [14503](http://boj.kr/14503) :
 [BJ14503.java](src/SAMSUNG/BJ14503.java) :
+2019-02-17
 
 - BFS
 - Maybe possible to use DFS??
 
 [14899](http://boj.kr/14899) :
 [BJ14899.java](src/SAMSUNG/BJ14899.java) :
+2019-02-18
 
 - DFS
 
 [14499](http://boj.kr/14499) :
 [BJ14499.java](src/SAMSUNG/BJ14499.java) :
+2019-02-19
 
 - Simulation
 
 [3190](http://boj.kr/3190) :
 [BJ3190.java](src/SAMSUNG/BJ3190.java) :
+2019-02-20
 
 - Simulation
+
+[15683](http://boj.kr/15683) :
+[BJ15683_v1.java](src/SAMSUNG/BJ15683_v1.java) :
+[BJ15683_v2.java](src/SAMSUNG/BJ15683_v2.java) :
+2019-02-20
+
+- Simulation
+- Didn't know how to initialise the map, so solved with a navie way
+- Got the way to do it by referring to other's codes
