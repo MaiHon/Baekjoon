@@ -678,3 +678,10 @@ by Mah
 - Simulation
 - Didn't know how to initialise the map, so solved with a navie way
 - Got the way to do it by referring to other's codes
+
+[14890](http://boj.kr/14890) :
+[BJ14890.java](src/SAMSUNG/BJ14890.java) :
+2019-02-20
+
+- Simulation
+- Didn't expect this code will pass the test cases from the first....
