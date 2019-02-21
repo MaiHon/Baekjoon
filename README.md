@@ -701,3 +701,11 @@ by Mah
 - BFS + Brute Foce
 - Something is weird...
 - Wanna get much faster way -> to do
+
+[1261](http://boj.kr/1261) :
+[BJ1261.java](src/Dijkstra/BJ1261.java) :
+2019-02-22
+
+- Dijkstra algorithm
+- Using PriorityQueue
+- instatnce class implements Comparable
