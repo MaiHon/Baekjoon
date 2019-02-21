@@ -693,3 +693,11 @@ by Mah
 
 - DFS
 - Brute Force
+
+[16236](http://boj.kr/16236) :
+[BJ16236.java](src/SAMSUNG/BJ16236.java) :
+2019-02-21
+
+- BFS + Brute Foce
+- Something is weird...
+- Wanna get much faster way -> to do
