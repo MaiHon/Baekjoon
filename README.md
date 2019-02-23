@@ -709,3 +709,9 @@ by Mah
 - Dijkstra algorithm
 - Using PriorityQueue
 - instatnce class implements Comparable
+
+[16234](http://boj.kr/16234) :
+[BJ16234.java](src/SAMSUNG/BJ16234.java) :
+2019-02-24
+
+- It was hard to understand what the problem wants...
