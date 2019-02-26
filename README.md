@@ -1,9 +1,7 @@
 # Baekjoon
 
 Learning-Algorithm
------
-by Mah
------
+
 -----
 
 [9012](https://boj.kr/9012) : 
@@ -715,3 +713,11 @@ by Mah
 2019-02-24
 
 - It was hard to understand what the problem wants...
+
+
+[16235](http://boj.kr/16235) :
+[BJ16235.java](src/SAMSUNG/BJ16235.java) :
+2019-02-26
+
+- Need to revise
+- Works for the TC but failed
