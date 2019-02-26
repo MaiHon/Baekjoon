@@ -41,8 +41,8 @@ public class BJ16235 {
 
         for(int i=0; i<M; i++){
             st = new StringTokenizer(br.readLine());
-            int x = Integer.valueOf(st.nextToken()) - 1;    // x
-            int y = Integer.valueOf(st.nextToken()) - 1;    // y
+            int y = Integer.valueOf(st.nextToken()) - 1;    // x
+            int x = Integer.valueOf(st.nextToken()) - 1;    // y
             int z = Integer.valueOf(st.nextToken());        // size
 
             tree[y*N + x][map[y][x]] = z;
@@ -103,6 +103,7 @@ public class BJ16235 {
                     for(int k=0; k<treeN; k++){
                         if(dead[i*N + j][k]){
                             field[i][j] += tree[i*N + j][k] / 2;
+                            tree[i*N + j][k] = 0;
                             dead[i*N + j][k] = false;
                             map[i][j]--;
                         }

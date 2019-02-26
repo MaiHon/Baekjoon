@@ -721,3 +721,5 @@ Learning-Algorithm
 
 - Need to revise
 - Works for the TC but failed
+- Solved, the problem was that I got the value x, y reversly.
+- x & y are just a variable name, so the definition is in the problem. ->> be careful
