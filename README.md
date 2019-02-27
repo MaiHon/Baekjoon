@@ -723,3 +723,10 @@ Learning-Algorithm
 - Works for the TC but failed
 - Solved, the problem was that I got the value x, y reversly.
 - x & y are just a variable name, so the definition is in the problem. ->> be careful
+
+[5373](http://boj.kr/5373) :
+[BJ5373.java](src/SAMSUNG/BJ5373.java) :
+2019-02-27
+
+- Too rough way... => casue many mistakes :(
+- There must be far better way
