@@ -730,3 +730,10 @@ Learning-Algorithm
 
 - Too rough way... => casue many mistakes :(
 - There must be far better way
+
+[9663](http://boj.kr/9663) :
+[BJ9663.java](src/BackTracking/BJ9663.java) :
+2019-03-04
+
+- BackTracking
+- One row can have just one Queen => y value can be depth
