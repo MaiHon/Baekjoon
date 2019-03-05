@@ -737,3 +737,10 @@ Learning-Algorithm
 
 - BackTracking
 - One row can have just one Queen => y value can be depth
+
+[13460](http://boj.kr/13460) :
+[BJ13460.java](src/SAMSUNG/BJ13460.java) :
+2019-03-05
+
+- First, move the balls to the limit of each
+- Second, if they are at the same location then compare first location for definite each's location
