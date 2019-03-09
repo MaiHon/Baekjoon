@@ -752,4 +752,11 @@ Learning-Algorithm
 
 - substring
 - add at the end of the string 1, 2, or 3 and then check it's possible or not -> if it's impossible delete the last : if it's possilbe next step
-- if depth is n => end dfs and then print 
+- if depth is n => end dfs and then print
+
+[1309](http://boj.kr/1309) :
+[BJ1309.java](src/Dynamic_Programming/BJ1309.java):
+2019-03-09
+
+- Dynamic programming
+- dp[n] = 2*dp[n-1] + dp[n-2]
