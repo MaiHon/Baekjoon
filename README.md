@@ -612,7 +612,7 @@ Learning-Algorithm
 - v1 -> normal bfs
 - v2 -> Floyd Warshall Algorithm
 - Floyd -> Time complexity => O(V^3)
-- Dijkstra -> Time complexity => VElongV(wrost case: V^3logV)
+- Dijkstra -> Time complexity => VElogV(wrost case: V^3logV)
 - Usually Dijkstra is fater except the worst case
 - Dijkstra doesn't work with negative edges whereas Floyd does. 
 
@@ -744,3 +744,12 @@ Learning-Algorithm
 
 - First, move the balls to the limit of each
 - Second, if they are at the same location then compare first location for definite each's location
+
+
+[2661](http://boj.kr/2661) :
+[BJ2661.java](src/BackTracking/BJ2661.java):
+2019-03-09
+
+- substring
+- add at the end of the string 1, 2, or 3 and then check it's possible or not -> if it's impossible delete the last : if it's possilbe next step
+- if depth is n => end dfs and then print 
