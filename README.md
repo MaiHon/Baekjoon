@@ -760,3 +760,17 @@ Learning-Algorithm
 
 - Dynamic programming
 - dp[n] = 2*dp[n-1] + dp[n-2]
+
+[1654](http://boj.kr/1654) :
+[BJ1654.java](src/Binaray_Search/BJ1654.java) :
+2019-03-10
+
+- Binaray Search
+- min value start from 1
+
+[2805](http://boj.kr/2805) :
+[BJ2805.java](src/Binaray_Search/BJ2805.java) :
+2019-03-10
+
+- Binaray Search
+- min value start from 0
