@@ -780,3 +780,9 @@ Learning-Algorithm
 2019-03-12
 
 - Greedy Algorithm
+
+[14888](http://boj.kr/14888) :
+[BJ14888.java](src/SAMSUNG/BJ14888.java) :
+2019-03-13
+
+- Brute Force
