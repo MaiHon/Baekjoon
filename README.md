@@ -774,3 +774,9 @@ Learning-Algorithm
 
 - Binaray Search
 - min value start from 0
+
+[2437](http://boj.kr/2437) :
+[BJ2437.java](src/Greedy_Algorithm/BJ2437.java) :
+2019-03-12
+
+- Greedy Algorithm
