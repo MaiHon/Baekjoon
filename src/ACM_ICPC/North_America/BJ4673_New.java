@@ -1,4 +1,4 @@
-package ACM_ICPC.North_America._1998;
+package ACM_ICPC.North_America;
 
 public class BJ4673_New {
  

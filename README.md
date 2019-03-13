@@ -792,3 +792,8 @@ Learning-Algorithm
 
 - Map
 - count letters
+
+[2675](http://boj.kr/2675) :
+[BJ2675.java](src/ACM_ICPC.North_America/BJ2675.java):
+
+- substring & concat
