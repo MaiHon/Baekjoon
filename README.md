@@ -786,3 +786,9 @@ Learning-Algorithm
 2019-03-13
 
 - Brute Force
+
+[1157](http://boj.kr/1157) :
+[BJ1157.java](src/String_Search/BJ1157.java):
+
+- Map
+- count letters
