@@ -797,3 +797,9 @@ Learning-Algorithm
 [BJ2675.java](src/ACM_ICPC.North_America/BJ2675.java):
 
 - substring & concat
+
+[15684](http://boj.kr/15684) :
+[BJ15684.java](src/SAMSUNG/BJ15684.java) :
+
+- DFS
+- Chk Function for the ladder works or not
