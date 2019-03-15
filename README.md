@@ -789,17 +789,27 @@ Learning-Algorithm
 
 [1157](http://boj.kr/1157) :
 [BJ1157.java](src/String_Search/BJ1157.java):
+2019-03-13
 
 - Map
 - count letters
 
 [2675](http://boj.kr/2675) :
-[BJ2675.java](src/ACM_ICPC.North_America/BJ2675.java):
+[BJ2675.java](src/ACM_ICPC/North_America/BJ2675.java):
+2019-03-13
 
 - substring & concat
 
 [15684](http://boj.kr/15684) :
 [BJ15684.java](src/SAMSUNG/BJ15684.java) :
+2018-03-13
 
 - DFS
 - Chk Function for the ladder works or not
+
+[2252](http://boj.kr/2252) :
+[BJ2252.java](src/Topology_Sort/BJ2252.java) :
+2019-03-15
+
+- Topologyical Sort
+- If q is empty before visiting all the nodes => cycle occurs => Impossible to excute
