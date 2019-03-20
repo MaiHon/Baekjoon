@@ -813,3 +813,10 @@ Learning-Algorithm
 
 - Topologyical Sort
 - If q is empty before visiting all the nodes => cycle occurs => Impossible to excute
+
+[1987](http://boj.kr/1987) :
+[BJ1987.java](src/BackTracking/Bj1987.java) :
+2019-03-20
+
+- BackTracking
+- Need to optimize... toooo slow
