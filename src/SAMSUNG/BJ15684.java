@@ -31,6 +31,10 @@ public class BJ15684 {
 
             map[a][b] = 1;
         }
+
+        // ladder 갯수가 최대 3
+        // 최솟값 구해야하니 0, 1, 2개 일 때도 성립하는지 순서대로 확인
+        // break;
         for(int i=0; i<=3; i++){
             dfs(i,0, 1);
             if(isTrue) break;
