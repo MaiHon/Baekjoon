@@ -827,3 +827,10 @@ Learning-Algorithm
 
 - Binomical Coefficient
 - Pascal's Equal Equation + recursive fucntion
+
+[11051](http://boj.kr/11051) :
+[BJ11051.java](src/Mathmatics/BJ11051.java) :
+2019-03-21
+
+- Binomical Coefficient
+- Pascal's Equal Equation + memoization
