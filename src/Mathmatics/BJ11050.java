@@ -27,4 +27,11 @@ public class BJ11050 {
 
         return numerator/denominator;
     }
+
+    // 파스칼의 항등식 C(n, k) + C(n, k+1) = C(n+1, k+1)
+    private static int binomialCoef(int N, int K){
+        if(N==K||K==0) return 0;
+
+        return binomialCoef(N-1, K-1) + binomialCoef(N-1, K);
+    }
 }

@@ -826,3 +826,4 @@ Learning-Algorithm
 2019-03-21
 
 - Binomical Coefficient
+- Pascal's Equal Equation + recursive fucntion
