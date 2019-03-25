@@ -834,3 +834,10 @@ Learning-Algorithm
 
 - Binomical Coefficient
 - Pascal's Equal Equation + memoization
+
+[1922](http://boj.kr/1922) :
+[BJ1922.java](src/MST/BJ1922.java) ;
+
+- Minimum Spanning Tree
+- Kruskal Algorithm & Union-Find Algorithm
+- Need to take unionParent func after adding distance to sum
