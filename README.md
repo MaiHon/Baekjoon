@@ -837,7 +837,15 @@ Learning-Algorithm
 
 [1922](http://boj.kr/1922) :
 [BJ1922.java](src/MST/BJ1922.java) ;
+2019-03-25
 
 - Minimum Spanning Tree
 - Kruskal Algorithm & Union-Find Algorithm
 - Need to take unionParent func after adding distance to sum
+
+[1197](http://boj.kr/1197) :
+[BJ1197.java](src/MST/BJ1197.java) :
+2019-03-26
+
+- MST
+- Kruskal Algorithm & Union-Find Algorithm
