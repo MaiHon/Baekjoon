@@ -21,7 +21,7 @@ public class BJ1786 {
 
         int j=0;
         for(int i=1; i<len; i++){
-            if(j>0 && str[i]!=str[j]){
+            while(j>0 && str[i]!=str[j]){
                 j = pi[j-1];
             }
             if(str[i]==str[j]){
