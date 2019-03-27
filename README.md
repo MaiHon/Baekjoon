@@ -849,3 +849,11 @@ Learning-Algorithm
 
 - MST
 - Kruskal Algorithm & Union-Find Algorithm
+
+[2150](http://boj.kr/2150) :
+[BJ2150.java](src/SCC/BJ2150.java) :
+2019-03-27
+
+- Learnt SCC
+- Using dfs(Tarjan's Algorithm)
+- Need to practice
