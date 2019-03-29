@@ -857,3 +857,26 @@ Learning-Algorithm
 - Learnt SCC
 - Using dfs(Tarjan's Algorithm)
 - Need to practice
+
+[6591](http://boj.kr/6591) :
+[BJ6591.java](src/Mathmatics/BJ6591.java) :
+2019-03-29
+
+- Binomial Coefficient
+- DP -> exceed memory
+- Recursive func -> Overstackflow
+- Used nCr == nCn-r
+
+[2407](http://boj.kr/2407) :
+[BJ2407.java](src/Mathmatics/BJ2407.java) :
+2019-03-29
+
+- Binomial Coefficient
+- DP with BigInteger
+
+[17070](http://boj.kr/17070) :
+[BJ17070.java](src/Implementation/BJ17070.java) :
+2019-03-29
+
+- Tried with BFS -> Time over...
+- DFS worked(why???)
