@@ -880,3 +880,10 @@ Learning-Algorithm
 
 - Tried with BFS -> Time over...
 - DFS worked(why???)
+
+[2290](http://boj.kr/2290) :
+[BJ2290.java](src/Implemetation/BJ2290.java) :
+2019-03-30
+
+- NumberArray
+- divide horizontal & vertical to print
