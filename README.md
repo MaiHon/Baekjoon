@@ -887,3 +887,18 @@ Learning-Algorithm
 
 - NumberArray
 - divide horizontal & vertical to print
+
+[3568](http://boj.kr/3568) :
+[BJ3568.java](src/Implementation/BJ3568.java) :
+2019-03-30
+
+- Simple implementation
+
+[2933](http://boj.kr/2933) :
+[BJ2933.java](src/Implementation/BJ2933.java) :
+[BJ2933_reference.java](src/Implementation/BJ2933_reference.java) :
+2019-03-30
+
+- Struggle to understatnd how to throw sticks...... :(
+- Reference code is faster and less memory
+- BFS
