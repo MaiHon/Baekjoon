@@ -902,3 +902,10 @@ Learning-Algorithm
 - Struggle to understatnd how to throw sticks...... :(
 - Reference code is faster and less memory
 - BFS
+
+[2422](http://boj.kr/2422) :
+[BJ2422.java](src/Brute_Force/BJ2422.java) :
+2019-04-02
+
+- Simple Brute Force by triple for loops
+- Tried to solve with arraylist => failed(to do)
