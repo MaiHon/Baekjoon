@@ -909,3 +909,17 @@ Learning-Algorithm
 
 - Simple Brute Force by triple for loops
 - Tried to solve with arraylist => failed(to do)
+
+[16179](http://boj.kr/16179) :
+[BJ16179.java](src/Brute_Force/BJ16179.java) :
+2019-04-02
+
+- Tried with BFS -> failed to make it work
+- Doesn't need to make visted array -> Guess cuz the coins can visit the place they've visited
+
+[14225](http://boj.kr/14225) :
+[BJ14225.java](src/Brute_Force/BJ14225.java) :
+2019-04-02
+
+- Each num can be summed or not
+- -> dfs(depth+1, val) & dfs(depth+1, val+nums(depth))
