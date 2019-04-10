@@ -926,6 +926,13 @@ Learning-Algorithm
 
 [16198](http://boj.kr/16198) :
 [BJ16198.java](src/Brute_Force/BJ16198.java) :
+2019-04-10
 
 - DFS
 - Create a new array for energy list each time
+
+[11559](http://boj.kr/11559) :
+[BJ11559.java](src/Brute_Force/BJ11559.java) :
+2019-04-10
+
+- Func with bfs for checking whether it's gonna boom or not
