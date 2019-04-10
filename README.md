@@ -923,3 +923,9 @@ Learning-Algorithm
 
 - Each num can be summed or not
 - -> dfs(depth+1, val) & dfs(depth+1, val+nums(depth))
+
+[16198](http://boj.kr/16198) :
+[BJ16198.java](src/Brute_Force/BJ16198.java) :
+
+- DFS
+- Create a new array for energy list each time
