@@ -942,4 +942,11 @@ Learning-Algorithm
 2019-04-10
 
 - Forget to initialize count array after update -> Struggled to figure out...
-- another mistake for the archers must shoot an enemy which is at the very left. 
+- another mistake for the archers must shoot an enemy which is at the very left.
+
+[17136](http://boj.kr/17136) :
+[BJ17136.java](src/SAMSUNG/BJ17136.java) :
+2019-04-10
+
+- DFS
+- If compare to other's codes, it cost too much memory... -> how to optimize?
