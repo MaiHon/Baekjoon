@@ -936,3 +936,10 @@ Learning-Algorithm
 2019-04-10
 
 - Func with bfs for checking whether it's gonna boom or not
+
+[17135](http://boj.kr/17135) :
+[BJ17135.java](src/SAMSUNG/BJ17135.java) :
+2019-04-10
+
+- Forget to initialize count array after update -> Struggled to figure out...
+- another mistake for the archers must shoot an enemy which is at the very left. 
