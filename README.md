@@ -950,3 +950,23 @@ Learning-Algorithm
 
 - DFS
 - If compare to other's codes, it cost too much memory... -> how to optimize?
+
+[1520](http://boj.kr/1520) :
+[BOJ1520.py][py/BOJ1520.py] :
+2019-04-17
+
+- DP
+- Tried DFS => Took too long
+- Need to initialize chk array  with -1
+
+[1965](http://boj.kr/1965) :
+[BOJ1520.py][py/BOJ1965.py] :
+2019-04-17
+
+- DP & LIS
+
+[2293](http://boj.kr/2293) :
+[BOJ1520.py][py/BOJ2293.py] :
+2019-04-17
+
+- DP
