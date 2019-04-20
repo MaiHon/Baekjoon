@@ -970,3 +970,17 @@ Learning-Algorithm
 2019-04-17
 
 - DP
+
+[17144](http://boj.kr/17144) :
+[BJ17144.java](src/SAMSUNG/BJ17144.java) :
+2019-04-20
+
+- Simple implementation
+- There must be a better way to purify... i took too naive way
+
+[17143](http://boj.kr/17143) :
+[BJ17143.java](src/SAMSUNG/BJ17143.java) :
+2019-04-20
+
+- Simple Implementation
+- Stupid mistake: I set the index number to 0 when dealing with over two sharks in a cell.
